@@ -9,7 +9,7 @@ Enthusiastic Software Engineering student at Addis Ababa Science and Technology 
 
 # 💞️ Area of interest:
 + Machine learining and Al
-+ Full-web development
++ Full- stack web development
 
   
 
