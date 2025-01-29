@@ -6,7 +6,7 @@ Enthusiastic Software Engineering student at Addis Ababa Science and Technology 
 
 # 👀 skills
 
-- framework: Angular, express
+- framework: Angular, express, django
 - progrorammming: Python, c++, JS, Php
 - others: React.js, node.js
 
