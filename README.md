@@ -20,3 +20,4 @@ Enthusiastic Software Engineering student at Addis Ababa Science and Technology 
 
 - Machine learining and Al
 - Full- stack web development
+- Cybersecurity and Hacking
