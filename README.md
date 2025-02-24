@@ -10,7 +10,7 @@ Enthusiastic Software Engineering student at Addis Ababa Science and Technology 
 - **programmming:** Python, JS, Php
 - **others:** React.js, node.js
 
-**My interst pro.language:**
+# 💞️ **My interst pro.language:**
 + Go
 + C#
 + Python
