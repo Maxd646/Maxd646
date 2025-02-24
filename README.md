@@ -1,4 +1,4 @@
-# 👋 Hi here, I'm Daniel Gashaw
+# 👋 Hi here, I'm Daniel G. Kebede
 
 # 😄 About me
 
