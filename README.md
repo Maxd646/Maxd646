@@ -6,7 +6,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 # 🌱 **Currently Learning**
 + Data Structures & Algorithms (Python)
-+ Cybersecurity for Backend Development
++ Cybersecurity 
 # **👀 Skills**
 + Frameworks: Angular, Express.js, Django
 + Programming Languages: Python, JavaScript, PHP
