@@ -1,23 +1,21 @@
-# 👋 Hi here, I'm Daniel G. Kebede
+# 👋 **Hi there, I'm Daniel G. Kebede**
 
-# 😄 About me
+# 😄** About Me**
 
-Enthusiastic Software Engineering student at Addis Ababa Science and Technology University (AASTU), passionate about developing digital solutions to real-world problems and exploring innovative technologies. Guided by the principle of 'technology for Humanity,' I'm excited to create impactful and sustainable advancements.
+I’m an enthusiastic Software Engineering student at Addis Ababa Science and Technology University (AASTU) with a passion for developing digital solutions to real-world problems. Guided by the principle of "Technology for Humanity," I aim to create impactful and sustainable advancements through innovation.
 
-# 👀 skills
-
-- **Framework**: Angular, express, django
-- **programmming:** Python, JS, Php
-- **others:** React.js, node.js
-
-# 💞️ **My interst pro.language:**
+# 🌱 **Currently Learning**
++ Data Structures & Algorithms (Python)
++ Cybersecurity for Backend Development
+# **👀 Skills**
++ Frameworks: Angular, Express.js, Django
++ Programming Languages: Python, JavaScript, PHP
++ Other Technologies: React.js, Node.js
+# 💞️ **Interested in Learning**
 + Go
 + C#
-+ Python
-
-
-# 💞️ Area of interest:
-
-- Machine learining and Al
-- Full- stack web development
-- Cybersecurity and Hacking
++ Advanced Python Concepts
+# ** 🔥 Areas of Interest**
++ Machine Learning & AI
++ Full-Stack Web Development
++ Cybersecurity & Ethical Hacking
