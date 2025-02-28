@@ -1,4 +1,4 @@
-# 👋 **Hi there, I'm Daniel G. Kebede**
+# 👋 **Hi there, I'm Daniel  Kebede**
 
 # 😄** About Me**
 
