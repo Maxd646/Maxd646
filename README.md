@@ -17,5 +17,5 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 + Advanced Python Concepts
 #  **🔥 Areas of Interest**
 + Machine Learning & AI
-+ Full-Stack Web Development integrate with (cyber-security, cloud computing and DevOPs)
++ Full-Stack Web Development integrate with (cyber-security, cloud computing )
 
