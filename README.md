@@ -9,7 +9,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 + Cybersecurity 
 # **👀 Skills**
 + Frameworks: Angular, Express.js, Django
-+ Programming Languages: Python, JavaScript, PHP, C#, Go
++ Programming Languages: Python, JavaScript, C#, Go, c++
 + Other: React.js, Node.js
 # 💞️ **Interested in Learning**
 + Go
