@@ -1,6 +1,6 @@
 # 👋 **Hi there, I'm Daniel  Kebede**
 
-# 😄 **About Me**
+# 😄 **About Me** 
 
 I’m an enthusiastic Software Engineering student at Addis Ababa Science and Technology University (AASTU) with a passion for developing digital solutions to real-world problems. Guided by the principle of "Technology for Humanity," I aim to create impactful and sustainable advancements through innovation.
 
@@ -54,18 +54,6 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxd646&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maxd646&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)
-
-  
 **<!-- GitHub Stats -->**
 
 ## 📊 GitHub Stats
@@ -73,5 +61,13 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxd646&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxd646&theme=radical)
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maxd646&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)
+
+  
+
 
 
