@@ -4,9 +4,11 @@
 
 I’m an enthusiastic Software Engineering student at Addis Ababa Science and Technology University (AASTU) with a passion for developing digital solutions to real-world problems. Guided by the principle of "Technology for Humanity," I aim to create impactful and sustainable advancements through innovation.
 
+
 ## 🌱 Currently Learning
 
-![DSA With Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/-Data_Structures_&_Algorithms-ffb703?style=flat&logo=geeksforgeeks&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E3440?style=flat&logo=hackthebox&logoColor=green)
 
 ---
@@ -21,6 +23,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -31,7 +34,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ---
 
-## 💞️ Interested in
+## 💞️ Interested in Learning
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -51,7 +54,6 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ## 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maxd646&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 **<!-- GitHub Stats -->**
