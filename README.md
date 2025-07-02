@@ -18,5 +18,8 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 #  **🔥 Areas of Interest**
 + cyber security
 + cloud computing and DevOps
-+ Full-Stack Web Development 
++ Full-Stack Web Development
+  
+**<!-- GitHub Stats -->**
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical)
 
