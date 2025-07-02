@@ -28,10 +28,4 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxd646&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxd646&theme=radical)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Maxd646/food-dashboard)
-![GitHub stars](https://img.shields.io/github/stars/Maxd646/food-dashboard)
-![GitHub forks](https://img.shields.io/github/forks/Maxd646/food-dashboard)
-![GitHub issues](https://img.shields.io/github/issues/Maxd646/food-dashboard)
-![GitHub license](https://img.shields.io/github/license/Maxd646/food-dashboard)
-
 
