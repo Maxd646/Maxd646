@@ -7,7 +7,6 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ## 🌱 Currently Learning
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/-Data_Structures_&_Algorithms-ffb703?style=flat&logo=geeksforgeeks&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E3440?style=flat&logo=hackthebox&logoColor=green)
 
@@ -34,7 +33,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ---
 
-## 💞️ Interested in Learning
+## 💞️ Interested in 
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
