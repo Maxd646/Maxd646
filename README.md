@@ -70,7 +70,8 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maxd646&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxd646&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)
+
 
   
 
