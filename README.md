@@ -21,5 +21,6 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 + Full-Stack Web Development
   
 **<!-- GitHub Stats -->**
+
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical)
 
