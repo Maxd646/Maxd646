@@ -65,6 +65,8 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxd646&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxd646&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxd646&theme=radical&hide_border=true)
+
 
 ---
 
