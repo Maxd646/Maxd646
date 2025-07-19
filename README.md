@@ -52,9 +52,13 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ---
 📫 **How to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/daniel-kebede-5a5990356)    
-- [Telegram](https://t.me/MevsMe3020) `(@MevsMe3020)`  
-- 📧 Email: [ethiomiracle2017@gmail.com](mailto:ethiomiracle2017@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/daniel-kebede-5a5990356)
+- [Twitter (X)](https://x.com/GashawDaniel17)  
+- [WhatsApp](https://wa.me/251914243851)  
+- [Instagram](https://instagram.com) <!-- Replace with your actual username if available -->
+- [Telegram](https://t.me/MevsMe3020)  
+- 📧 Email: [ethiomiracle2017@gmail.com](mailto:ethiomiracle2017@gmail.com)  
+
 
 ✅ **Check my [Portfolio](https://danielkebde-portifolio.vercel.app/)** for more information about my skills and experiences.
 
