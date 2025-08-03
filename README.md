@@ -50,8 +50,6 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ![DevOps](https://img.shields.io/badge/-DevOps-FF6C37?style=flat&logo=azuredevops&logoColor=white)
 ![Full-Stack](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
 ---
-![snake gif](https://github.com/Maxd646/Maxd646/blob/output/github-contribution-grid-snake.svg)
----
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/daniel-kebede-5a5990356)
 - [Twitter (X)](https://x.com/DanielKebe98080)  
