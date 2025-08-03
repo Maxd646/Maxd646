@@ -49,7 +49,8 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-00BFFF?style=flat&logo=cloudflare&logoColor=white)
 ![DevOps](https://img.shields.io/badge/-DevOps-FF6C37?style=flat&logo=azuredevops&logoColor=white)
 ![Full-Stack](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
-
+---
+![snake gif](https://github.com/Maxd646/Maxd646/blob/output/github-contribution-grid-snake.svg)
 ---
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/daniel-kebede-5a5990356)
@@ -76,7 +77,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 **<!-- GitHub Stats -->**
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Maxd646&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxd646&layout=compact&theme=radical)
 ---
