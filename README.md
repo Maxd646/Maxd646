@@ -45,10 +45,10 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ## 🔥 Areas of Interest
 
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0A0F24?style=flat&logo=tryhackme&logoColor=green)
-![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-00BFFF?style=flat&logo=cloudflare&logoColor=white)
-![DevOps](https://img.shields.io/badge/-DevOps-FF6C37?style=flat&logo=azuredevops&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
+![Full-Stack Development](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
+
 ---
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/daniel-kebede-5a5990356)
