@@ -56,7 +56,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 - [WhatsApp](https://wa.me/251914243851)  
 - [Instagram]() <!-- Replace with your actual username if available -->
 - [Telegram](https://t.me/MevsMe3020)
-- [Leetcode](https:/) 
+- [Leetcode](https://leetcode.com/u/ethdani/) 
 - 📧 Email: [ethiomiracle2017@gmail.com](mailto:ethiomiracle2017@gmail.com)  
 
 
