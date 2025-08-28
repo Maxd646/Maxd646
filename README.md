@@ -1,5 +1,15 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I+am+Daniel+Kebede;💻+Full-Stack+Developer+%7C+Cybersecurity+Learner;🚀+Building+Ideas+Into+Reality;✨+Let%E2%80%99s+Create+Something+Amazing!&color=36BCF7&color2=22C55E&color3=FF7A18&color4=8B5CF6)](https://git.io/typing-svg)
+<!-- Line 1 - Blue -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I+am+Daniel+Kebede)](https://git.io/typing-svg)
+
+<!-- Line 2 - Green -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=22C55E&center=true&vCenter=true&width=800&lines=💻+Full-Stack+Developer+%7C+Cybersecurity+Learner)](https://git.io/typing-svg)
+
+<!-- Line 3 - Orange -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF7A18&center=true&vCenter=true&width=800&lines=🚀+Building+Ideas+Into+Reality)](https://git.io/typing-svg)
+
+<!-- Line 4 - Purple -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=800&lines=✨+Let%E2%80%99s+Create+Something+Amazing!)](https://git.io/typing-svg)
 
 
 ---
