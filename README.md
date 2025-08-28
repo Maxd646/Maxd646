@@ -1,6 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I+am+Daniel+Kebede;💻+Full-Stack+Developer+%7C+Cybersecurity+Learner;🚀+Building+Ideas+Into+Reality;✨+Let%E2%80%99s+Create+Something+Amazing!&color=36BCF7&color2=22C55E&color3=FF7A18&color4=8B5CF6)](https://git.io/typing-svg)
 
-![Typing SVG](./typing.svg)
 
 ---
 
