@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" role="img" aria-label="Animated typing: hi there i am daniel Kebede ...">
+  <style>
+    <![CDATA[
+      .mono { font-family: "Fira Code", "Courier New", monospace; font-weight: 600; font-size:20px; }
+    ]]>
+  </style>
+
+  <!-- Line 1 -->
+  <mask id="mask1">
+    <rect x="0" y="0" width="0" height="40" fill="white">
+      <animate attributeName="width" from="0" to="800" dur="1.8s" begin="0s" fill="freeze" />
+    </rect>
+  </mask>
+  <text class="mono" x="10" y=" thirty" y="32" fill="#36BCF7" mask="url(#mask1)">
+    hi there i am daniel Kebede
+  </text>
+
+  <!-- Line 2 -->
+  <mask id="mask2">
+    <rect x="0" y="0" width="0" height="40" fill="white">
+      <!-- begins after line1 finished -->
+      <animate attributeName="width" from="0" to="800" dur="1.6s" begin="1.9s" fill="freeze" />
+    </rect>
+  </mask>
+  <text class="mono" x="10" y="62" fill="#22C55E" mask="url(#mask2)">
+    Full-Stack Developer | Cybersecurity Learner
+  </text>
+
+  <!-- Line 3 -->
+  <mask id="mask3">
+    <rect x="0" y="0" width="0" height="40" fill="white">
+      <animate attributeName="width" from="0" to="800" dur="1.6s" begin="3.6s" fill="freeze" />
+    </rect>
+  </mask>
+  <text class="mono" x="10" y="92" fill="#FF7A18" mask="url(#mask3)">
+    Building Ideas 🚀 Into Reality
+  </text>
+
+  <!-- Line 4 -->
+  <mask id="mask4">
+    <rect x="0" y="0" width="0" height="40" fill="white">
+      <animate attributeName="width" from="0" to="800" dur="1.8s" begin="5.3s" fill="freeze" />
+    </rect>
+  </mask>
+  <text class="mono" x="10" y="122" fill="#8B5CF6" mask="url(#mask4)">
+    Let’s Create Something Amazing!
+  </text>
+
+  <!-- optional blinking cursor (follows last line timing) -->
+  <rect x="380" y="106" width="6" height="20" fill="#111">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.3s" repeatCount="indefinite" />
+  </rect>
+</svg>
