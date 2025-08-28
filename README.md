@@ -1,4 +1,5 @@
-# 👋  **Hi there, I'm Daniel  Kebede**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Daniel;Full-stack+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
 ---
 
 # 😄 **About Me** 
