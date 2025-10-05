@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Maxd646)
 --- 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I+am+Daniel+Kebede;💻+Full-Stack+Developer+%7C+Cybersecurity+Learner;🚀+Building+Ideas+Into+Reality;✨+Let%E2%80%99s+Create+Something+Amazing!&color=36BCF7&color2=22C55E&color3=FF7A18&color4=8B5CF6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I+am+Daniel+Kebede;💻+Full-Stack+Developer+%7C+AI+and+Ml+Learner;🚀+Building+Ideas+Into+Reality;✨+Let%E2%80%99s+Create+Something+Amazing!&color=36BCF7&color2=22C55E&color3=FF7A18&color4=8B5CF6)](https://git.io/typing-svg)
 
 
 ---
@@ -50,8 +50,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ## 🔥 Areas of Interest
 
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0A0F24?style=flat&logo=tryhackme&logoColor=green)
+![Machine Learning and AI](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Full-Stack Development](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
 
 ---
