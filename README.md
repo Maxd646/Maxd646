@@ -54,13 +54,16 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ![Full-Stack Development](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
 
 ---
-📫 **How to reach me:**  
+📫 **See More on**  
 - [LinkedIn](https://www.linkedin.com/in/daniel-kebede-5a5990356)
-- [Twitter (X)](https://x.com/DanielKebe98080)  
-- [WhatsApp](https://wa.me/251914243851)  
-- [Instagram]() <!-- Replace with your actual username if available -->
-- [Telegram](https://t.me/MevsMe3020)
 - [Leetcode](https://leetcode.com/u/ethdani/) 
+- [Instagram]() <!-- Replace with your actual username if available -->
+- [Twitter (X)](https://x.com/DanielKebe98080)
+---
+📫 **How to reach me:**  
+
+- [WhatsApp](https://wa.me/251914243851)   
+- [Telegram](https://t.me/MevsMe3020)
 - 📧 Email: [ethiomiracle2017@gmail.com](mailto:ethiomiracle2017@gmail.com)  
 
 
