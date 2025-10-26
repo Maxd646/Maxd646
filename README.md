@@ -54,7 +54,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ![Full-Stack Development](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
 
 ---
-📫 **See More on**  
+📫 **See More and Follow me on**  
 - [LinkedIn](https://www.linkedin.com/in/daniel-kebede-5a5990356)
 - [Leetcode](https://leetcode.com/u/ethdani/) 
 - [Instagram]() <!-- Replace with your actual username if available -->
