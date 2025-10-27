@@ -14,8 +14,9 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 ## 🌱 Currently Learning
 
-![DSA](https://img.shields.io/badge/-Data_Structures_&_Algorithms-ffb703?style=flat&logo=geeksforgeeks&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E3440?style=flat&logo=hackthebox&logoColor=green)
+![Data Structures & Algorithms](https://img.shields.io/badge/-Data_Structures_&_Algorithms-ffb703?style=flat&logo=geeksforgeeks&logoColor=white)
+![System Design & Architecture](https://img.shields.io/badge/-System_Design_&_Architecture-2E3440?style=flat&logo=archlinux&logoColor=white)
+
 
 ---
 
