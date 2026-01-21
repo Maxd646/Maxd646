@@ -23,8 +23,14 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ## 👨‍💻 Skills
 
 ### 🚀 Frameworks
-[Gin](https://img.shields.io/badge/-Gin_Framework-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin_Framework-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
