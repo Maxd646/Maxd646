@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Maxd646)
 ## 🏆 GitHub Ranking (Ethiopia)
-[![committers.top badge](https://user-badge.committers.top/ethiopia/Tesfamichael12.svg)](https://committers.top/ethiopia#Tesfamichael12)
+[![committers.top badge](https://user-badge.committers.top/ethiopia/Maxd646.svg)](https://committers.top/ethiopia#Maxd646)
 ---
 
 ## ⏱ Coding Activity
