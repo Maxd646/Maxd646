@@ -80,7 +80,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 ---
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.screw-hand.vercel.app/?username=Maxd646&theme=onedark&no-frame=true&row=2&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Followers,PullRequest,Repositories,Reviews,Stars,Experience)](https://github.com/Maxd646
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Maxd646&theme=onedark&no-frame=true&row=2&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Followers,PullRequest,Repositories,Reviews,Stars,Experience)](https://github.com/Maxd646)
 ---
 
 **<!-- GitHub Stats -->**
