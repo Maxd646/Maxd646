@@ -86,7 +86,7 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 **<!-- GitHub Stats -->**
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxd646&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Maxd646&show_icons=true&theme=onedark)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Maxd646&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxd646&layout=compact&theme=radical)
 ---
