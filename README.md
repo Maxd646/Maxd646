@@ -22,7 +22,8 @@ const daniel = {
     experience: [
         "Full-Stack Intern @ INSA",
         "Software Engineering Intern @ iCog Lab",
-        "Open Source Contributor @ GGSOC"
+        "Open Source Contributor Mentor @ GGSOC"
+        
     ],
 
     interests: [
