@@ -1,8 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Maxd646)
 
 [![GitHub Ranking](https://user-badge.committers.top/ethiopia/Maxd646.svg)](https://committers.top/ethiopia#Maxd646)
-
-         [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=👋+Daniel+Kebede;+Full-Stack+%7C+AI+%26+ML+Engineer&color=36BCF7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=👋+Daniel+Kebede;+Full-Stack+%7C+AI+%26+ML+Engineer&color=36BCF7)](https://git.io/typing-svg)
 
 ## 🧠 About Me
 
