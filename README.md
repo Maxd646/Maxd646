@@ -6,59 +6,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I+am+Daniel+Kebede;💻+Full-Stack+Developer+%7C+AI+and+Ml+Learner;🚀+Building+Ideas+Into+Reality;✨+Let%E2%80%99s+Create+Something+Amazing!&color=36BCF7&color2=22C55E&color3=FF7A18&color4=8B5CF6)](https://git.io/typing-svg)
 
 
----
+## 🧠 About Me
 
-# 😄 **About Me** 
+```javascript
+const daniel = {
+    role: [
+        "Software Engineering Student",
+        "Full-Stack Developer",
+        "AI & ML Learner"
+    ],
 
-I’m an enthusiastic Software Engineering student at Addis Ababa Science and Technology University (AASTU) with a passion for developing digital solutions to real-world problems. Guided by the principle of "Technology for Humanity," I aim to create impactful and sustainable advancements through innovation.
+    currentFocus: [
+        "Data Structures & Algorithms",
+        "Artificial Intelligence",
+        "Cloud Computing"
+    ],
 
----
+    experience: [
+        "Full-Stack Intern @ INSA",
+        "Software Engineering Intern @ iCog Lab",
+        "Open Source Contributor @ GGSOC"
+    ],
 
-## 🌱 Currently Learning
+    interests: [
+        "Backend Engineering",
+        "System Design",
+        "Scalable Applications"
+    ],
 
-![Data Structures & Algorithms](https://img.shields.io/badge/-Data_Structures_&_Algorithms-ffb703?style=flat&logo=geeksforgeeks&logoColor=white)
-![System Design & Architecture](https://img.shields.io/badge/-System_Design_&_Architecture-2E3440?style=flat&logo=archlinux&logoColor=white)
-
-
----
-
-## 👨‍💻 Skills
-
-### 🚀 Frameworks
-![Gin](https://img.shields.io/badge/-Gin_Framework-00ADD8?style=flat&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Hugging%20Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### 🌐 Others
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
----
-
-## 💞️ Interested in 
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Advanced Python](https://img.shields.io/badge/-Advanced%20Python-306998?style=flat&logo=python&logoColor=white)
-
----
-
-## 🔥 Areas of Interest
-
-![Machine Learning and AI](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Full-Stack Development](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
+    motto: "Building technology that creates impact. 🚀"
+};
+```
 
 ---
 📫 **See More and Follow me on**  
@@ -75,7 +53,6 @@ I’m an enthusiastic Software Engineering student at Addis Ababa Science and Te
 
 
 ✅ **Check my [Portfolio](https://danielkebde-portifolio.vercel.app/)** for more information about my skills and experiences.
-
 
 ---
 
