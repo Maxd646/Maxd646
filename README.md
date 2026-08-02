@@ -26,7 +26,7 @@ const daniel = {
     ],
 
     interests: [
-        "Backend Engineering",
+        "AI/ML Engineering",
         "System Design",
         "Scalable Applications"
     ],
