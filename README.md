@@ -50,8 +50,6 @@ const daniel = {
 - 📧 Email: [ethiomiracle2017@gmail.com](mailto:ethiomiracle2017@gmail.com)  
 
 
-✅ **Check my [Portfolio](https://danielkebde-portifolio.vercel.app/)** for more information about my skills and experiences.
-
 ---
 
 ## 🏆 GitHub Trophies
